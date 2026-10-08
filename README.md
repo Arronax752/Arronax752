@@ -16,8 +16,6 @@ My current interests are **programming, web development, Linux, networking, and 
 - 🟡 **In Progress:** SQL Injection (Retrieving hidden data, UNION attacks, Blind SQLi exploitation)
 - 🛠️ **Next Up:** Detailed Authentication Vulnerabilities
 
-## Skills
-
 | Skill                       | Associated Project                       |
 | --------------------------- | ---------------------------------------- |
 | Flask Backend Development   | <a href="https://github.com/Xhaolean/Feedback-system-via-flask"> Flask Projects </a>     |
